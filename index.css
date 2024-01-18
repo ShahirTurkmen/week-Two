@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+}
+
+.bg-green {
+    background-color: rgb(0, 128, 0)
+}
+
+.tx-white {
+    color: white;
+}
+
+.ft-Arial {
+    font-family: Arial;
+}
+
+.tx-cyrn {
+    /* color: rgb(100, 255, 255); */
+    color: #0FFF;
+}
+
+.tx-st {
+    text-decoration-line: line-through;
+}
